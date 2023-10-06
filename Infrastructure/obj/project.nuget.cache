@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2AUEiYaK89YMQfJTyIXHOMzMSQwQCiCZ1J1wK84WtYSeFqic45qQGsIud6nsFCaWZhCUandHNRapSrIu2Bg2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELIGHT\\Documents\\Visual Studio 2022\\Projects\\ContinentalFoods\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELIGHT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

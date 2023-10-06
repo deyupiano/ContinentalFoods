@@ -1,0 +1,36 @@
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\DELIGHT\Desktop\ContinentalFoods\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\DELIGHT\Documents\Visual Studio 2022\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.dll
+C:\Projects\ContinentalFoods\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.dll
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Projects\ContinentalFoods\Domain\obj\Debug\net6.0\ref\Domain.dll

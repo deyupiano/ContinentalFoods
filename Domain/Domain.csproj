@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\Domain.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\Domain.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\Domain.deps.json" />
+    <Content Include="obj\Debug\net6.0\Domain.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Domain.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\Domain.dll" />
+    <None Include="bin\Debug\net6.0\Domain.pdb" />
+    <None Include="Domain.csproj" />
+    <None Include="obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\Domain.assets.cache" />
+    <None Include="obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\Domain.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\Domain.dll" />
+    <None Include="obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\Domain.pdb" />
+    <None Include="obj\Debug\net6.0\refint\Domain.dll" />
+    <None Include="obj\Debug\net6.0\ref\Domain.dll" />
+    <None Include="obj\Debug\net6.0\_IsIncrementalBuild" />
+    <None Include="obj\Domain.csproj.nuget.g.props" />
+    <None Include="obj\Domain.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+  </ItemGroup>
+
+</Project>

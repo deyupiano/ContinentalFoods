@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\DataAccessLayer.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\DataAccessLayer.deps.json" />
+    <Content Include="bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json" />
+    <Content Include="obj\DataAccessLayer.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net6.0\DataAccessLayer.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net6.0\DataAccessLayer.dll" />
+    <None Include="bin\Debug\net6.0\DataAccessLayer.pdb" />
+    <None Include="bin\Debug\net6.0\Domain.dll" />
+    <None Include="bin\Debug\net6.0\Domain.pdb" />
+    <None Include="DataAccessLayer.csproj" />
+    <None Include="obj\DataAccessLayer.csproj.nuget.g.props" />
+    <None Include="obj\DataAccessLayer.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.assets.cache" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.dll" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\DataAccessLayer.pdb" />
+    <None Include="obj\Debug\net6.0\refint\DataAccessLayer.dll" />
+    <None Include="obj\Debug\net6.0\ref\DataAccessLayer.dll" />
+    <None Include="obj\Debug\net6.0\_IsIncrementalBuild" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>

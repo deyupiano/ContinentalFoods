@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R3yeH5nsB7tuQHf1oO+Mb3lBmoANP+M4D9aD7ulzDC5siQYZYrQT5pue4OO0M0QyNDGtHj3R/qgnq3A+fnWmnA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ContinentalFoods\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELIGHT\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,45 @@
+﻿global using ContinentalFoods.WebApi.Extensions;
+global using AutoMapper;
+global using MediatR;
+global using ContinentalFoods.WebApi.Registrars;
+global using Microsoft.AspNetCore.Identity;
+global using ContinentalFoods.Application.Services;
+global using ContinentalFoods.WebApi.Contracts.Friendships.Requests;
+global using ContinentalFoods.Application.Friendships.Commands;
+global using ContinentalFoods.WebApi.Contracts.UserProfile.Requests;
+global using ContinentalFoods.Application.Identity.Queries;
+global using ContinentalFoods.Api.Contracts.UserProfile.Responses;
+global using ContinentalFoods.Application.UserProfiles.Commands;
+global using System.ComponentModel.DataAnnotations;
+global using ContinentalFoods.WebApi.Contracts.Common;
+global using ContinentalFoods.Application.Enums;
+global using ContinentalFoods.Application.Models;
+global using Microsoft.AspNetCore.Mvc;
+global using ContinentalFoods.WebApi.Contracts.Posts.Requests;
+global using ContinentalFoods.WebApi.Contracts.Posts.Responses;
+global using ContinentalFoods.WebApi.Filters;
+global using ContinentalFoods.Application.Posts.Commands;
+global using ContinentalFoods.Application.Posts.Queries;
+global using ContinentalFoods.Application.UserProfiles.Models;
+global using ContinentalFoods.Application.UserProfiles.Queries;
+
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using ContinentalFoods.WebApi.Routes;
+global using ContinentalFoods.Domain.Aggregates.PostAggregate;
+global using Microsoft.AspNetCore.Mvc.ApiExplorer;
+global using Microsoft.Extensions.Options;
+global using Microsoft.OpenApi.Models;
+global using Swashbuckle.AspNetCore.SwaggerGen;
+global using Microsoft.EntityFrameworkCore;
+global using ContinentalFoods.WebApi.Options;
+global using System.Text;
+global using ContinentalFoods.Application.Options;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Security.Claims;
+global using ContinentalFoods.WebApi.Contracts.Identity;
+global using ContinentalFoods.Application.Identity.Commands;
+global using Microsoft.AspNetCore.Authorization;
+global using DataAccessLayer;
+
+
